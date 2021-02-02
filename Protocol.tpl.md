@@ -30,7 +30,7 @@ Describe the vulnerability shortly.
 ```txt
 Describe how to reproduce it.
 ```
-#### Recommendation:
+#### Recommendations / Fixes:
 ```txt
 Recommendations/s how to fix the issue.
 ```
