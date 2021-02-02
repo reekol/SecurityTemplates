@@ -32,5 +32,5 @@ Describe how to reproduce it.
 ```
 #### Recommendations / Fixes:
 ```txt
-Recommendations/s how to fix the issue.
+Recommendations how to fix and prevent this issue.
 ```
