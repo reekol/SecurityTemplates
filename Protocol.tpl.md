@@ -24,7 +24,7 @@
 
 #### Description:
 ```txt
-Describe the vunerability shortly.
+Describe the vulnerability shortly.
 ```
 #### Reproduction:
 ```txt
