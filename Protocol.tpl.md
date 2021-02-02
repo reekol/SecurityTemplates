@@ -3,11 +3,11 @@
 # Cuber Security Report.
 
 ```diff
-- EXTREME SEVERITY
-! HIGH SEVERITY
-@@ MODERATE SEVERITY @@
-+ LOW SEVERITY
+- HIGH SEVERITY
+! MODERATE SEVERITY
+@@ LOW SEVERITY @@
 # RECOMENDATION
++ SECURED
 ```
 ```diff
 - Personal data is affected
