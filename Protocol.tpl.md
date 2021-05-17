@@ -1,6 +1,5 @@
 #### Asignee: `Jane Doe`
-
-# Cuber Security Report.
+# Cuber Security Report. 
 
 ```diff
 - HIGH SEVERITY
@@ -16,7 +15,7 @@
 
 #### Author: `Jhon Doe`
 #### Reviewer: `Jason Doe`
-
+#### Complexity rate `Reproduction / Fix`  `10 / 10` 
 #### Date Reported: `2020-11-07 21:30`
 #### Date Discovered: `2020-11-07 21:30`
 #### CVE : `111-111-111`
