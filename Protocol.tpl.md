@@ -1,5 +1,5 @@
 #### Asignee: `Jane Doe`
-# Cuber Security Report. 
+# Cyber Security Report. 
 
 ```diff
 - HIGH SEVERITY
