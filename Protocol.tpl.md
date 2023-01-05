@@ -25,6 +25,14 @@
 ```txt
 Describe the vulnerability shortly.
 ```
+
+#### Environmet:
+```
+ vpn:
+ http:
+ proxy:
+ etc ...
+```
 #### Reproduction:
 ```txt
 Describe how to reproduce it.
